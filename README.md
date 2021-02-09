@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://github.com/Luka-Magic/Message-Garbling/blob/main/img/messagegarbling.png">
+<img src="https://github.com/Luka-Magic/Message-Garbling/blob/main/img/messagegarbling.png", width='700'>
 
 ### License
 ---
