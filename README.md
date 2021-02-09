@@ -1,4 +1,4 @@
-# Text Garbling
+# Message Garbling
 私はあなたのメッセージを文字化けさせます！
 
 <br>
